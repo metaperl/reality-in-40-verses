@@ -1,4 +1,5 @@
 *.aux
+*.idx
 *.out
 *.toc
 *.dvi
